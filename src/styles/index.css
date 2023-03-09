@@ -1,4 +1,26 @@
-
+body{
+    background-image: url("time.jpg");
+}
+.counter{
+    display: grid;
+    place-items: center;
+    margin-top: 200px;
+}
+.boxcouter{
+    display: inline-block;
+    margin: auto;
+    background-color: rgb(59, 4, 45);
+    padding: 30px;
+    place-items: center;
+}
+.boxcouter div{
+    display: inline-block;
+    font-size: 80px;
+    line-height: 100px;
+    background:  rgb(59, 4, 45);
+    color: white;
+    padding: 30px;
+}
 /* 
 
     You can write your own styles here...
