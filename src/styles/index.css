@@ -1,6 +1,6 @@
 body{
-    /* background-color: rgb(7, 7, 7); */
-    background-image: url("/src/img/time.jpg");
+    background-color: rgb(1, 24, 49); 
+    /* background-image: url("/src/img/time.jpg"); */
 }
 .counter{
     display: grid;
@@ -11,7 +11,7 @@ body{
 .boxcouter{
     display: inline-block;
     margin: auto;
-    background-color: rgb(59, 4, 45);
+    background-color: rgb(16, 90, 48);
     padding: 30px;
     place-items: center;
     border-radius: 10px;
@@ -20,7 +20,7 @@ body{
     display: inline-block;
     font-size: 80px;
     line-height: 100px;
-    background:  rgb(59, 4, 45);
+    background:   rgb(16, 90, 48);
     color: white;
     padding: 30px;
 }
